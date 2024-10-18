@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paradigmas.SignalR.Lab.Api", "Paradigmas.SignalR.Lab.Api.csproj", "{80DA0FE0-2EE0-417E-B54B-2678BA010C87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paradigmas.SignalR.Lab.Client", "..\Paradigmas.SignalR.Lab.Client\Paradigmas.SignalR.Lab.Client.csproj", "{04348E08-8060-4EDC-BCA9-78992D543901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80DA0FE0-2EE0-417E-B54B-2678BA010C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DA0FE0-2EE0-417E-B54B-2678BA010C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DA0FE0-2EE0-417E-B54B-2678BA010C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DA0FE0-2EE0-417E-B54B-2678BA010C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04348E08-8060-4EDC-BCA9-78992D543901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04348E08-8060-4EDC-BCA9-78992D543901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04348E08-8060-4EDC-BCA9-78992D543901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04348E08-8060-4EDC-BCA9-78992D543901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB658852-631F-4A02-A6DE-A635DE6B5AED}
+	EndGlobalSection
+EndGlobal
